@@ -1,0 +1,4 @@
+class RubixCube extends Planet{
+
+
+}

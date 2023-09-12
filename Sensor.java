@@ -1,0 +1,4 @@
+class Sensor extends ElectronicProduct{
+
+
+}

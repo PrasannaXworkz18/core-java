@@ -1,0 +1,10 @@
+class Samsung extends Mobile{
+
+
+
+
+
+
+
+
+}
