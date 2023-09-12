@@ -1,4 +1,0 @@
-class Maggi extends Fastfood{
-
-
-}

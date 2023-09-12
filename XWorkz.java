@@ -1,5 +1,0 @@
-class XWorkz extends TrainingCentre{
-
-
-
-}

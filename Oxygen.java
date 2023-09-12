@@ -1,5 +1,0 @@
-class Oxygen extends Element{
-
-
-
-}

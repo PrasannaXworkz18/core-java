@@ -1,4 +1,0 @@
-class $Fastrack extends Watch{
-
-
-}

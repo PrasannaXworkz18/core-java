@@ -1,4 +1,0 @@
-class AfterEffects extends EditingSofware{
-
-
-}

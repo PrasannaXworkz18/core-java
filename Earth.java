@@ -1,4 +1,0 @@
-class Earth extends Planet{
-
-
-}
